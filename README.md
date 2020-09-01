@@ -1,4 +1,4 @@
-# Learning
+# TEMPLATE
 
 How to start the Learning application
 ---
