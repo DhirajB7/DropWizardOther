@@ -11,10 +11,6 @@ public class LearningApplication extends Application<LearningConfiguration> {
         new LearningApplication().run(args);
     }
 
-    @Override
-    public String getName() {
-        return "Learning DropWizard..........HELLO WORLD";
-    }
 
     @Override
     public void initialize(final Bootstrap<LearningConfiguration> bootstrap) {
