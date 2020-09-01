@@ -1,5 +1,6 @@
 package io.dropwizard;
 
+
 import io.dropwizard.health.TemplateHealthCheck;
 import io.dropwizard.resources.SayingResource;
 import io.dropwizard.setup.Bootstrap;
